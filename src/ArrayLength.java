@@ -7,6 +7,7 @@ public class ArrayLength {
 		this.id=id;
 		this.name=name;
 		System.out.println("Id= "+id+"\nName= "+name);
+		//
 	}
 	
 
